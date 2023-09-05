@@ -1,4 +1,4 @@
-SpecialDNS: a Go based Authoratative DNS resolver that serves records stale until they are explicitly flushed
+ a Go based Authoratative DNS resolver that serves records stale until they are explicitly flushed
 
 # DNS Resolver with Record Management
 
